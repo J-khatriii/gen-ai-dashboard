@@ -51,7 +51,7 @@ pnpm dev
 
 The dashboard is deployed on Vercel and can be accessed at:
 
-🔗 gen-ai-dashboard-pi.vercel.app
+🔗 [gen-ai-dashboard-pi.vercel.app](https://gen-ai-dashboard-pi.vercel.app)
 
 ## Project Structure
 
