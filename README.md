@@ -30,7 +30,7 @@ A modern, responsive dashboard for natural language data queries and visualizati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gen-ai-dashboard.git
+git clone https://github.com/J-khatriii/gen-ai-dashboard.git
 cd gen-ai-dashboard
 ```
 
@@ -45,6 +45,13 @@ pnpm dev
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+
+## Deployment
+
+The dashboard is deployed on Vercel and can be accessed at:
+
+🔗 gen-ai-dashboard-pi.vercel.app
 
 ## Project Structure
 
