@@ -2,6 +2,12 @@
 
 A modern, responsive dashboard for natural language data queries and visualization.
 
+## Deployment
+
+The dashboard is deployed on Vercel and can be accessed at:
+
+🔗 [gen-ai-dashboard-pi.vercel.app](https://gen-ai-dashboard-pi.vercel.app)
+
 ## Features
 
 - Natural language query input with AI-powered suggestions
@@ -47,11 +53,6 @@ pnpm dev
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 
-## Deployment
-
-The dashboard is deployed on Vercel and can be accessed at:
-
-🔗 [gen-ai-dashboard-pi.vercel.app](https://gen-ai-dashboard-pi.vercel.app)
 
 ## Project Structure
 
